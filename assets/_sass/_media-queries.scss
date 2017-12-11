@@ -147,8 +147,6 @@
 
   main {
     padding-top: 1em;
-    padding-left: 10px;
-    padding-right: 10px;
   }
 
   article {
@@ -172,5 +170,13 @@
   .link-to-post {
     margin: 50px auto;
     padding: 2em;
+  }
+}
+
+@media screen and (max-width: $break-point) {
+
+  .content-wrapper {
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
