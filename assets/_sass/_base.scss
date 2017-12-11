@@ -263,13 +263,26 @@ i.social-link-icon {
 }
 
 i.social-link-icon:hover {
-  color: #766257;
+  color: $theme-link-hover-color;
 }
 
 .content-wrapper strong.feature-highlight {
   font-size: 22px;
 }
 
+.content-wrapper {
+  color: $theme-text-color;
+}
+
 .section-heading-row {
   text-align:center;
+}
+
+ul.skills-list {
+  list-style-type: none;
+}
+
+.skills-list li {
+  border-bottom: solid 1px lightgrey;
+  width: 50%;
 }
