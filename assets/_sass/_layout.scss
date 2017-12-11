@@ -114,12 +114,12 @@ a:hover {
     order: 1;
     line-height: 50px;
     margin: auto;
-    color: $theme-link-color;
+    color: $theme-nav-bar-link-color;
     text-decoration: none;
     &:hover,
     &:focus,
     &:active {
-      color: $theme-link-hover-color;
+      color: $theme-nav-bar-link-hover-color;
     }
   }
 }
