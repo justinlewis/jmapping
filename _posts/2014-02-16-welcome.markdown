@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Welcome"
+crawlertitle: "Welcome"
+summary: "Welcome to Chasing The Waypoint"
+date:   2014-02-16 23:09:47 +0700
+categories: posts
+tags: ''
+author: jmapping
+---
+I am starting this simple blog to try and give back to the on-line tech community that has given me so much.  As a developer I rely heavily on the support of the community. As a developer who works mostly with open source this is even more relevant.  Without going too deep into my philosophies of open source I believe that we have a greater capacity to move forward in this world if we are each helping to build a common path.  Just like an open source contributor seeks to improve a product that helps others move forward, blogging offers an opportunity to help others navigate the complex world of tech.
+
+<br>
+
+So who am I in all this?
+
+<br>
+
+I am a reformed GIS professional who has worked into Software Development from the ground up.  Over the years I have worked with a lot of technologies and projects that focus on everything from enterprise data management to modern client side data visualization.  I try to make sense of interesting yet complicated data by building tools for others to better understand it.  Sometimes this may be through charts, graphs, and maps while other times it might be though working on programmatic models that output some meaningful results.
+
+<br>
+
+What can you expect from this blog?
+
+<br>
+
+I work with modern tools on interesting subject matter.  You can expect everything from “deep in the weeds” code snippets that solve some problem to basic tutorials on getting started with some technology or technique.  In the end I want to help those just getting started with programming or open source to better understand how to be a part of an open tech community.
+
+<br>
+
+Thanks for your interest!
