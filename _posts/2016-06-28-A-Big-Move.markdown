@@ -1,0 +1,43 @@
+---
+bg: "tools.jpg"
+layout: post
+title:  "A Software Developer Deep In The Mountains - It's Very Possible"
+crawlertitle: "A Programmers Guide To Cheating The Clock For Basic Climbing Fitness"
+summary: "A re-introduction to me as I embark on a different but maybe not-so-different life in the Mountains."
+date:   2017-12-18 23:00:00 +0700
+categories: posts
+tags: 'life'
+author: jmapping
+---
+
+I meet a lot of people that would like the opportunity to move closer to the outdoor world that is a major source of their happiness yet they don't. While I absolutely understand that there are reasons to hold back from a move to a more rural community I wanted to share a little bit about a life change I recently made that might serve as some inspiration for those wanting it but haven't quite taken the leap.
+
+<hr>
+
+A year ago I moved from the Denver area to Marble Colorado on the edge of the Ragged Mountains. I now live in a place with no cell phone reception and that is literally at the end of the line for Internet service.  I harvest and split about sixteen truck loads of firewood in the summer to keep the house warm in the winter and I had to get a land line (phone) as a communication backup... Ya, a land line. It was a big and much needed change that I didn’t quite realize I needed till it happened.
+
+[![climber]({{ site.images | relative_url }}/chair_mtn.jpg)]({{ site.images | relative_url }}/chair_mtn.jpg)
+
+<p class="photo-credit">Photo by Me of Chair Mountain on the way home from town.</p>
+
+<h4>A New Community</h4>
+Over the last year I’ve intentionally stepped back from some aspects of my life to leave room for meeting a new community. This was one of the best decisions I could have made. As a result I’ve been lucky enough to forge many new personal and professional relationships on a magnitude I didn’t expect from such a small community. I was very pleasantly surprised to find a lot of energy brewing in the Roaring Fork Valley toward building business and local community. I'll be talking more about this in future posts.
+
+[![climber]({{ site.images | relative_url }}/aspen_entrepeneurs_meeting.jpg)]({{ site.images | relative_url }}/aspen_entrepeneurs_meeting.jpg)
+
+<p class="photo-credit">Photo by Aspen Entrepreneurs. A successful meeting in Aspen to talk about the future of the Entrepreneurial community in the Roaring Fork.</p>
+
+<h4>New Food Sources</h4>
+Living in the mountains has also offered opportunities more like you might expect from rural living that are harder to attain when living in a City. Even compared to a city as nature focused as the Denver/Boulder area. For example, I now am able to buy meat directly from the ranch family that raises it. Which is also one of the ranches that does a lot to support the local community. I was able to start trying to get my own meat by hunting in the mountains around home. As avid gardeners this was the next logical step toward being closer to the food we eat.
+
+[![climber]({{ site.images | relative_url }}/cow_traffic.jpg)]({{ site.images | relative_url }}/cow_traffic.jpg)
+
+<p class="photo-credit">Photo by Me. Traffic on the road from climbing at a local climbing area.</p>
+
+<h4>Health & Recreation</h4>
+As one might expect living in the mountains offers amazing access to outdoor recreation. This is incredibly important to me for a number of reasons (maybe another post) but one of which is to improve the always challenging work/life balance. Being far away from your usual amenities is challenging at times but very rewarding if your priorities align with what a rural lifestyle offers... Which is a lot. Nothing is better for my energy or emotions than stepping away from work to go hiking with my dog in the woods, climbing outside, or just casually enjoying the wilderness.
+
+<h4>Work In The Mountains</h4>
+As mentioned above there is a lot happening around the Roaring Fork the suggests a promising future for local business. This includes entrepreneurial ventures that reach beyond the local community. However, while I've been getting more and more involved with those communities I have my day job that is demanding and occupies a lot of my time (as jobs do). For brevities sake I'll say that sometimes stepping out of a fast paced tech scene can be very beneficial to an individual. Walking away from Denver's thriving tech scene was one of the biggest worries I had about leaving but in the end it is more important to take care of my family and health than stay physically close to other technology folk. This has actually helped me as I find myself working with more intention than when distracted by all the things that come with an exploding tech scene in the city. In today's day and age it is easier than ever to keep connected via digital networks. I'm also lucky enough to be only ~4 hours from Denver so visiting is both a fun vacation and opportunity to connect with professional networks that are a bit more distant but not lost.
+
+Welcome to the future.

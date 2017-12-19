@@ -6,7 +6,7 @@ crawlertitle: "Testing Performance Of Materialized Views For Web Mapping From A 
 summary: "Testing Performance Of Materialized Views For Web Mapping From A Normalized Database"
 date:   2016-06-29 20:09:47 +0700
 categories: posts
-tags: ['database', 'sql']
+tags: ['database']
 author: jmapping
 ---
 If you don’t know what materialized views are in PostgreSQL you can read all about them in the official docs. For those of you that don’t want to read the docs I’ll sum it up here.

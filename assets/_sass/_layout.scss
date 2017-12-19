@@ -338,3 +338,12 @@ article {
     display: block;
   }
 }
+
+.photo-credit{
+  color: grey;
+}
+
+.photo-credit:before{
+    content:"\00a9";
+    margin-right: 5px;
+  }
