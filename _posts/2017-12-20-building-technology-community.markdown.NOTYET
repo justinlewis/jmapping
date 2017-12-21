@@ -1,0 +1,18 @@
+---
+bg: "tools.jpg"
+layout: post
+title:  "Building A Technology Community In The Roaring Fork"
+crawlertitle: "Building a technology community in the Roaring Fork"
+summary: "A community doesn't make itself. The people make the community. The Roaring Fork Technologists are trying to add modern opportunity to the Roaring Fork community."
+date:   2017-12-20 23:00:00 +0700
+categories: posts
+tags: 'community'
+author: jmapping
+---
+
+When considering a life in a small town many people worry about missing out on career opportunities that tend to be more common in bigger cities.
+
+
+[![climber]({{ site.images | relative_url }}/chair_mtn.jpg)]({{ site.images | relative_url }}/chair_mtn.jpg)
+
+<p class="photo-credit">Photo by Me of Chair Mountain on the way home from town.</p>

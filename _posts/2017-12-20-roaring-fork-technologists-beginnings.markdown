@@ -3,7 +3,7 @@ bg: "tools.jpg"
 layout: post
 title:  "Roaring Fork Technologists - The Beginnings"
 crawlertitle: "Building a technology community in the Roaring Fork"
-summary: ""
+summary: "A community doesn't make itself. The people make the community. The Roaring Fork Technologists are trying to add modern opportunity to the Roaring Fork community."
 date:   2017-12-20 23:00:00 +0700
 categories: posts
 tags: 'community'
