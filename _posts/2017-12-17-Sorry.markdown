@@ -10,4 +10,4 @@ tags: ''
 author: jmapping
 ---
 
-I re-wrote this site to get away from WordPress in favor of static site generators (Jekyll) and quite simply didn't want to move my old blog posts to this new site. I moved a couple of the most popular but left the rest in the dust. Sorry if anyone is disappointed by this. I know some where referenced by people around the community but in general it's not a big loss. 
+I re-wrote this site to get away from WordPress in favor of static site generators (Jekyll) and quite simply didn't want to move my old blog posts to this new site. I moved a couple of the most popular but left the rest in the dust. Sorry if anyone is disappointed by this. I know some where referenced by people around the community but in general it's not a big loss.
