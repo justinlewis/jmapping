@@ -11,7 +11,7 @@ author: jmapping
 ---
 
 
-After moving deep into the Rocky Mountains of Colorado I wanted to reach out to my new community to see if there where others that share my interest in technology. After nearly ten years working in the technology industry I find it important to keep a network of similar professionals around so we can support and learn from each other. As soon as I got on my feet in a new home I started a group called the Roaring Fork Technologists since a similar group didn't seem to exist. This post is to introduce who the Roaring Fork Technologists are today and what they hope to become.
+After moving deep into the Rocky Mountains of Colorado I wanted to reach out to my new community to see if there were others that share my interest in technology. After nearly ten years working in the technology industry I find it important to keep a network of similar professionals around so we can support and learn from each other. As soon as I got on my feet in a new home I started a group called the Roaring Fork Technologists since a similar group didn't seem to exist. This post is to introduce who the Roaring Fork Technologists are today and what they hope to become.
 
 [![climber]({{ site.images | relative_url }}/mt_sopris.jpg)]({{ site.images | relative_url }}/mt_sopris.jpg)
 
@@ -59,6 +59,6 @@ The people behind this movement are ambitious and eager to help others. There ar
 <br>
 
 <h4>Special Thanks!</h4>
-Dave Mayor has been instrumental in helping to kick this group off and connect us with people around the community. Keep doing what you do Dave!
+Dave Mayer has been instrumental in helping to kick this group off and connect us with people around the community. Keep doing what you do Dave!
 
 Altai Chuluun has been incredibly welcoming and supportive through efforts around <a href="https://glenx.space/" target="_blank">GlenX</a>. We see this space and the GlenX team as fundamental for the future success of growing this group to meet the ambitious goals hinted at above.
