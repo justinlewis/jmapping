@@ -63,3 +63,8 @@ projects:
   url: http://justinlewis.github.io/colorado_flood_vis_2013/
   code-url: https://github.com/justinlewis/colorado_flood_vis_2013
   description: is a simple visualization put together very quickly to demonstrate the magnitude of the catastrophic flooding that took place in Colorado on September 2013.
+
+- name: Roaring Fork Technologists
+  url: http://roaringforktechnologists.com/
+  code-url: https://github.com/RoaringForkTech
+  description: Founded a technology group focused on supporting the technology and entrepeneurial communities round the Roaring Fork of Colorado. We write code, educate the youth, educate each other, and support local business throug volunteer technology advice.
