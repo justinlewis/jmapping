@@ -2,7 +2,7 @@
 bg: "tools.jpg"
 layout: post
 title:  "In Small Communities More Gets Done When You Meet The Old Fashion Way"
-crawlertitle: ""
+crawlertitle: "While technology helps facilitate relationship building in communities of all sizes smaller communities still rely heavily on face-to-face relationships to get things done. The dynamics of smaller communities naturally support a balance between digital communication and in-person communication where one does not replace the other."
 date:   2018-01-24 23:00:00 +0700
 categories: posts
 tags: 'community'
@@ -54,7 +54,9 @@ Smaller communities usually (in my experience) have cultural characteristics tha
 
 #### Small communities leap right over the digital gap
 
-There are still a lot of people who either are not participating on forms of digital communication like social media or who simply miss communication in the staggering amount of information we're exposed to every day. The Pew Research Center shows rural communities consistently using social media less than non-rural communities (see chart above). For these people/situations there is no question that meeting in-person is important to any professional relationship or collaboration. It's worth noting that in my experience there are all kinds of people not using social media. I regularly am around people of all ages, backgrounds, levels of technical aptitude, and influence who do not participate in social media. Many of these people are the ones in the community who get thing done.
+There are still a lot of people who either are not participating on forms of digital communication, like social media, or who simply miss communication in the staggering amount of information we're exposed to every day. The Pew Research Center shows rural communities consistently using social media less than non-rural communities (see chart above). For these people/situations there is no question that meeting in-person is important to any professional relationship or collaboration. It's worth noting that in my experience there are all kinds of people not using social media. I regularly am around people of all ages, backgrounds, levels of technical aptitude, and influence who do not participate in social media.
+
+One common way that smaller communities ensure regular networking is through meetup groups such as the Chamber of Commerce, Small Business Administrations, grass roots professional networking groups, and more recently co-working/startup programming events. These regular groups often are the life blood of smaller communities because they provide consistency where opportunities to meet as a group are more scarce than found in the city. Some may see that scarcity as a negative but I personally have seen it as a positive because people are more engaged in supporting their neighbors. These also offer opportunity to include people into the group who may not have built the social connections on social media. Remember that many people don't use or don't rely on social media to build professional relationships.
 
 #### Small communities rely on a strong foundation of trust as a foundation
 
