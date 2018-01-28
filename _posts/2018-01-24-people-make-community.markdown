@@ -7,6 +7,7 @@ date:   2018-01-24 23:00:00 +0700
 categories: posts
 tags: 'community'
 author: jmapping
+excerpt: "While technology helps facilitate relationship building in communities of all sizes smaller communities still rely heavily on face-to-face relationships to get things done. The dynamics of smaller communities naturally support a balance between digital communication and in-person communication where one does not replace the other."
 ---
 
 [![climber]({{ site.images | relative_url }}/social-media-by-community-type.png)]({{ site.images | relative_url }}/social-media-by-community-type.png)

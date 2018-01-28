@@ -2,11 +2,12 @@
 bg: "tools.jpg"
 layout: post
 title:  "The Give First Mantra === The Open Source Developers Default"
-crawlertitle: ""
+crawlertitle: "The Give First Mantra is a good one and is born out of the business aspect of the startup community. However, the essence of this mantra is at the center of the open source development community which in part supports a robust connection between the business and development aspects of startup communities where these two ideas are common."
 date:   2018-01-16 23:00:00 +0700
 categories: posts
 tags: 'community'
 author: jmapping
+excerpt: "The Give First Mantra is a good one and is born out of the business aspect of the startup community. However, the essence of this mantra is at the center of the open source development community which in part supports a robust connection between the business and development aspects of startup communities where these two ideas are common."
 ---
 
 [![climber]({{ site.images | relative_url }}/squirl_catching_peanut.jpg)]({{ site.images | relative_url }}/squirl_catching_peanut.jpg)
