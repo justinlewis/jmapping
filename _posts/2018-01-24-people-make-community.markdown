@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title:  "In Small Communities More Gets Done When You Meet The Old Fashion Way"
+title:  "In Small Communities More Gets Done When You Meet The Old Fashioned Way"
 crawlertitle: "While technology helps facilitate relationship building in communities of all sizes smaller communities still rely heavily on face-to-face relationships to get things done. The dynamics of smaller communities naturally support a balance between digital communication and in-person communication where one does not replace the other."
 date:   2018-01-24 23:00:00 +0700
 categories: posts
