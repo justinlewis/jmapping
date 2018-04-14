@@ -37,7 +37,7 @@ Sometimes a community will sprout one or more specialties due to a couple indivi
 #### Co-working spaces are vital to the health and growth of the community
 While co-working spaces aren't necessarily the most lucrative venture from a membership standpoint they serve and indispensable role in the community as a place to bring people together. This has been the sales pitch of co-working spaces for a long time but in mountain communities they are proving to be not just important but vital. With a good physical space and good programming around the space co-working facilities educate and encourage collaboration in a way usually not possible in the past.
 
-#### Capitol opportunities need to be present and evolve to the realities of mountain communities
+#### Capital opportunities need to be present and evolve to the realities of mountain communities
 Many mountain communities have a unique geographic access to investors but new channels for local investment must be established that are tailored to the unique dynamics of smaller entrepreneurial communities. As an example, investors need transparency into understanding how growth and return rates might be lower in mountain communities but those returns are still there. Additionally, investment in local mountain communities has a magnifying effect on the health of the community at large which improves the likelihood of future investment while improving the local community investors love to be a part of.
 
 #### Silicon Valley is not taking over your mountain town
