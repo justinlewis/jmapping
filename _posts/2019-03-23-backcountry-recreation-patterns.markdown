@@ -31,7 +31,7 @@ This isn't a surprise. Those that have visited a National Park, especially one o
 * The blue, orange, and green lines at the bottom show three categories of park visitors which I've extracted from all recreational visitors.
 
 
-### Total backcountry visitors per year have decreased since 1979
+### Total backcountry campers (per year) have decreased since 1979
 Everyone experiences the natural world in their own way. While one person may get a deep connection by visiting a crowded park for a day another might seek out multi-day trips into the backcountry. Neither is better than the other but I'm willing to presume that those who commit the time, money, and expertise needed to travel in the backcountry are seeking a deep connection to the wilderness. If this is true I would presume that these people are more likely to stand up for protecting these wild places. Unfortunately, it seems like there are less people pursuing backcountry trips in the National Park System than in 1979.
 
 [![climber]({{ site.images | relative_url }}/NationalParkBack-countryCampers1979-2014.png)]({{ site.images | relative_url }}/NationalParkBack-countryCampers1979-2014.png)
