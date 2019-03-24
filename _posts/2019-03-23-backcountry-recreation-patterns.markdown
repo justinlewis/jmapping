@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title:  "Disconnecting From The Wilderness"
+title:  "What Does The Data Tell Us About Disconnecting From The Wilderness"
 crawlertitle: "While the number of recreational travelers are on the rise the number of backcountry travelers are declining. A loss of people with personal experiences in the wilderness could lead to a loss of people personally invested in protecting wild places."
 date:   2019-03-23 23:00:00 +0700
 categories: posts
