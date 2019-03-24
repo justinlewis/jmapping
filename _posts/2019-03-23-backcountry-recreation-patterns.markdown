@@ -49,7 +49,7 @@ It might not seem surprising that backcountry visitors have declined since the w
 * Visualizing this data as a percentage change since 1979 helps to see the change since the start of the data collection more clearly than if using total visits.
 
 ### What does this tell us?
-In general this tells us that National Park camping across all types, especially backcountry camping, has decreased since 1979 despite a rise in population and recreational visitors.
+In general this tells us that National Park camping across all types has decreased since 1979 despite a rise in population and recreational visitors.
 
 ### Limitations of this analysis
 There are many limitations to this assessment but some of the biggest are:
