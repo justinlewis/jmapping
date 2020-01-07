@@ -23,6 +23,8 @@ disqus_username:
 markdown: kramdown
 permalink: /:categories/:title/
 
+exclude: [writings.md]
+
 # Posts settings
 future: true
 safe: false
@@ -57,8 +59,8 @@ projects:
 - name: Digital Solutions For Malaria Elimination Partner
   url: https://dsme.community/
   code-url: https://github.com/terraframe/geoprism-registry
-  description: is a collaborative effort to build a suite of technology to help mitigate Malaria in key countries. I (and the TerraFrame team) are helping define global standards for data transmission as well as building the Common Geospatial Registry. 
-  
+  description: is a collaborative effort to build a suite of technology to help mitigate Malaria in key countries. I (and the TerraFrame team) are helping define global standards for data transmission as well as building the Common Geospatial Registry.
+
 - name: Roaring Fork Technologists
   url: http://roaringforktechnologists.com/
   code-url: https://github.com/RoaringForkTech
