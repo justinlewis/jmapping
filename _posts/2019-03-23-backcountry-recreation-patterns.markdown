@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title:  "Disconnecting From The Wilderness"
+title:  "What Does The Data Tell Us About Disconnecting From The Wilderness"
 crawlertitle: "While the number of recreational travelers are on the rise the number of backcountry travelers are declining. A loss of people with personal experiences in the wilderness could lead to a loss of people personally invested in protecting wild places."
 date:   2019-03-23 23:00:00 +0700
 categories: posts
@@ -31,7 +31,7 @@ This isn't a surprise. Those that have visited a National Park, especially one o
 * The blue, orange, and green lines at the bottom show three categories of park visitors which I've extracted from all recreational visitors.
 
 
-### Total backcountry visitors per year have decreased since 1979
+### Total backcountry campers (per year) have decreased since 1979
 Everyone experiences the natural world in their own way. While one person may get a deep connection by visiting a crowded park for a day another might seek out multi-day trips into the backcountry. Neither is better than the other but I'm willing to presume that those who commit the time, money, and expertise needed to travel in the backcountry are seeking a deep connection to the wilderness. If this is true I would presume that these people are more likely to stand up for protecting these wild places. Unfortunately, it seems like there are less people pursuing backcountry trips in the National Park System than in 1979.
 
 [![climber]({{ site.images | relative_url }}/NationalParkBack-countryCampers1979-2014.png)]({{ site.images | relative_url }}/NationalParkBack-countryCampers1979-2014.png)
@@ -49,7 +49,7 @@ It might not seem surprising that backcountry visitors have declined since the w
 * Visualizing this data as a percentage change since 1979 helps to see the change since the start of the data collection more clearly than if using total visits.
 
 ### What does this tell us?
-In general this tells us that National Park camping across all types, especially backcountry camping, has decreased since 1979 despite a rise in population and recreational visitors.
+In general this tells us that National Park camping across all types has decreased since 1979 despite a rise in population and recreational visitors.
 
 ### Limitations of this analysis
 There are many limitations to this assessment but some of the biggest are:
