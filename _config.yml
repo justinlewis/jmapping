@@ -65,3 +65,8 @@ projects:
   url: http://roaringforktechnologists.com/
   code-url: https://github.com/RoaringForkTech
   description: Founded a technology group focused on supporting the technology and entrepeneurial communities round the Roaring Fork of Colorado. We write code, educate the youth, educate each other, and support local business throug volunteer technology advice.
+
+- name: Built From Here
+  url: https://builtfromhere.com/
+  code-url:
+  description: Stories about how and why people are building tech teams in the less populated parts of the world.
