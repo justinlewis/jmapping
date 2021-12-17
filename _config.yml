@@ -61,12 +61,7 @@ projects:
   code-url: https://github.com/terraframe/geoprism-registry
   description: is a collaborative effort to build a suite of technology to help mitigate Malaria in key countries. I (and the TerraFrame team) are helping define global standards for data transmission as well as building the Common Geospatial Registry.
 
-- name: Roaring Fork Technologists
-  url: http://roaringforktechnologists.com/
-  code-url: https://github.com/RoaringForkTech
-  description: Founded a technology group focused on supporting the technology and entrepeneurial communities round the Roaring Fork of Colorado. We write code, educate the youth, educate each other, and support local business throug volunteer technology advice.
-
-- name: Built From Here
-  url: https://builtfromhere.com/
-  code-url:
-  description: Stories about how and why people are building tech teams in the less populated parts of the world.
+- name: West Slope Technologists
+  url: https://westslopetechnologists.com/
+  code-url: https://github.com/COWestSlopeTech
+  description: Founded a technology group focused on supporting the technology and entrepeneurial communities around the rural Colorado. We write code, educate the youth, educate each other, and support local business.
