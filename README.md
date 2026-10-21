@@ -60,15 +60,10 @@ Missing facts are marked in the pages with `<span class="todo">…</span>`,
 which shows as a yellow highlight with a dashed outline. Search for
 `class="todo"` to find them.
 
-`index.html`, intro:
-
-- Number of years at TerraFrame ("Over X years at TerraFrame…")
-
 `index.html`, Talks & writing:
 
 - Cloud-Native Geospatial Forum talk (Snowbird, Utah): year and talk title
 - FOSS4G 2026 paper: title and link, and its status (for example, accepted or presented)
-- 2023 Spatial Knowledge Mesh paper: title and link, and venue
 - "Give Your Software Away" (TEDxGrandJunction): year
 - "Rethinking the Data Pipeline for Better Integration and Collaboration": year and venue
 - "Turning Data into Information with Geo-Ontologies": year and venue

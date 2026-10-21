@@ -299,6 +299,15 @@ hr {
   line-height: 1.55;
 }
 
+.callout {
+  margin: 1.75rem 0;
+  padding-left: 1.1rem;
+  border-left: 3px solid var(--color-accent);
+  font-size: 1.3rem;
+  font-style: italic;
+  line-height: 1.45;
+}
+
 .page-title {
   font-size: unquote("clamp(2.6rem, 1.9rem + 2.6vw, 3.75rem)");
   margin-bottom: 1rem;
