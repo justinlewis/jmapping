@@ -60,6 +60,10 @@ Missing facts are marked in the pages with `<span class="todo">…</span>`,
 which shows as a yellow highlight with a dashed outline. Search for
 `class="todo"` to find them.
 
+`index.html`, intro:
+
+- Number of years at TerraFrame ("Over X years at TerraFrame…")
+
 `index.html`, Talks & writing:
 
 - Cloud-Native Geospatial Forum talk (Snowbird, Utah): year and talk title
