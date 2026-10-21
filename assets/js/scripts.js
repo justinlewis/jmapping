@@ -9,6 +9,7 @@
   var imageHeight = window.innerHeight - 20;
 
   /* events */
+  if (!shadow) { setDate(); return; }
   shadow.addEventListener('click', resetShadow, false);
   window.addEventListener('keydown', resetStyles, false);
   window.addEventListener('resize', refreshImageSizes, false);
@@ -82,25 +83,3 @@
   }
 })();
 
-
-/*
-* Aside Resize
-* ========================================================================== */
-
-(function() {
-  var aside = document.querySelector('.sidebar');
-  var mainContainer = document.querySelectorAll('.content-wrapper');
-  var switcher = document.getElementById('switcher');
-
-  switcher.addEventListener('click', slide, false);
-
-
-  function slide() {
-    aside.classList.add('transition-divs');
-    aside.classList.toggle('aside-left');
-    [].forEach.call(mainContainer, function(c) {
-      c.classList.add('transition-divs');
-      c.classList.toggle('centering');
-    });
-  }
-})();
