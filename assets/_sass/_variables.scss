@@ -1,19 +1,46 @@
-$lg-break-point: 1200px;
-$break-point: 960px;
-$md-break-point: 640px;
-$sm-break-point: 320px;
+/*
+* Variables
+* ========================================================================== */
 
-$aside-width: 35%;
-$content-wrapper-width: 62%;
-$article-max-width: 740px;
-$post-margin-left: 38%;
+// Breakpoints. Below $split-break-point the photo panel becomes a banner.
+$narrow-break-point: 40rem;
+$split-break-point: 60rem;
+$wide-break-point: 72rem;
 
-$img: "../img";
-$js: "../js";
-$font: "../font";
+$photo-panel-width: 40%;
+$content-max-width: 44rem;
 
-$theme-text-color: #666666;
-$theme-link-color: #44ae78;
-$theme-link-hover-color: #43765C;
-$theme-nav-bar-link-color: #666666;
-$theme-nav-bar-link-hover-color: #2D2D2B;
+$font-display: "Barlow Condensed", "Roboto Condensed", "Arial Narrow", sans-serif-condensed, sans-serif;
+$font-body: "Source Serif 4", "Source Serif Pro", Georgia, Cambria, "Times New Roman", serif;
+$font-ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+// Colors live in CSS custom properties so dark mode can swap them at runtime.
+:root {
+  color-scheme: light dark;
+
+  --color-bg: #fbfbf9;
+  --color-text: #1b1d1c;
+  --color-muted: #5a605c;
+  --color-rule: #dde1de;
+  --color-accent: #267a52;
+  --color-accent-hover: #1b5a3c;
+  --color-tint: #e9f3ed;
+  --color-todo-bg: #fff2a1;
+  --color-todo-border: #a88700;
+  --color-todo-text: #3a3000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #141615;
+    --color-text: #e6e9e7;
+    --color-muted: #a2a9a5;
+    --color-rule: #2d322f;
+    --color-accent: #6cc79a;
+    --color-accent-hover: #93dab5;
+    --color-tint: #1a2a21;
+    --color-todo-bg: #554700;
+    --color-todo-border: #e3c440;
+    --color-todo-text: #fff6c7;
+  }
+}

@@ -1,4 +1,5 @@
-<footer class="blog-footer content-wrapper">
-  <p>&copy; <span class="full-year"></span> {{ site.title }}</p>
+<footer class="site-footer">
+  {% include social.html %}
+  <p>The quickest way to reach me is a message on <a href="https://www.linkedin.com/in/justin-lewis-colorado/">LinkedIn</a>.</p>
+  <p>&copy; <span class="full-year">{{ site.time | date: "%Y" }}</span> Justin Lewis</p>
 </footer>
-<script src="{{ site.baseurl }}/assets/js/scripts.js"></script>

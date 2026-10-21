@@ -1,32 +1,15 @@
-{% if page.bg %}
-  <aside class="sidebar" role="note" style="background-image: url({{ site.images | relative_url }}/{{ page.bg }})">
-{% else %}
-  <aside class="sidebar" role="note" style="background-image: url({{ site.images | relative_url }}/bg.svg)">
-{% endif %}
+{% assign panel_bg = page.bg | default: "web/me_5.jpg" %}
+{% assign panel_alt = page.bg_alt | default: "Justin Lewis" %}
+<aside class="photo-panel" aria-label="About Justin Lewis">
+  <img class="photo-panel__image" src="{{ site.images | relative_url }}/{{ panel_bg }}" alt="{{ panel_alt | escape }}"{% if page.bg_position %} style="object-position: {{ page.bg_position }}"{% endif %} fetchpriority="high">
 
-  <div class="cover">
-
-    <div class="cover-text">
-      <div class="heading">
-
-        {% if page.tags %}
-          {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/posts/#{{ tag | downcase }}">{{ tag | downcase }}</a>
-          {% endfor %}
-        {% else %}
-          {{ page.title }}
-        {% endif %}
-
-      </div>
-
-      <p>
-        {% if page.summary %}
-          {{ page.summary }}
-        {% endif %}
-      </p>
-
-    </div>
-
+  <div class="photo-panel__text">
+    {% if page.url == "/" %}
+      <h1 class="photo-panel__name">Justin Lewis</h1>
+    {% else %}
+      <p class="photo-panel__name"><a href="{{ "/" | relative_url }}">Justin Lewis</a></p>
+    {% endif %}
+    <p class="photo-panel__role">VP of Product &amp; Senior GIS Developer at <a href="https://www.terraframe.com">TerraFrame</a></p>
+    <p class="photo-panel__place">Marble, Colorado</p>
   </div>
-
 </aside>
