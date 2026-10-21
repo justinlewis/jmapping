@@ -313,6 +313,8 @@ hr {
 
 figure img { width: 100%; }
 
+h2 + figure { margin-top: 1.25rem; }
+
 figcaption {
   margin-top: 0.5rem;
   font-size: 0.9rem;
