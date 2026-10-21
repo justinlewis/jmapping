@@ -33,7 +33,6 @@
   <title>{{ seo_title | escape }}</title>
   <meta name="description" content="{{ seo_description | escape }}">
   <link rel="canonical" href="{{ seo_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -42,8 +41,8 @@
   <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}">
 
   <meta property="og:site_name" content="{{ site.title | escape }}">
-  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ seo_title | escape }}">
   <meta property="og:description" content="{{ seo_description | escape }}">
   <meta property="og:url" content="{{ seo_url }}">
   <meta property="og:image" content="{{ seo_image }}">
@@ -51,7 +50,7 @@
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@{{ site.twitter_username }}">
-  <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+  <meta name="twitter:title" content="{{ seo_title | escape }}">
   <meta name="twitter:description" content="{{ seo_description | escape }}">
   <meta name="twitter:image" content="{{ seo_image }}">
 

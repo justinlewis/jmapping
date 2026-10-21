@@ -1,5 +1,7 @@
 <footer class="site-footer">
-  {% include social.html %}
-  <p>The quickest way to reach me is a message on <a href="https://www.linkedin.com/in/justin-lewis-colorado/">LinkedIn</a>.</p>
-  <p>&copy; <span class="full-year">{{ site.time | date: "%Y" }}</span> Justin Lewis</p>
+  <div class="site-footer__inner">
+    {% include social.html %}
+    <p>The quickest way to reach me is a message on <a href="https://www.linkedin.com/in/justin-lewis-colorado/">LinkedIn</a>.</p>
+    <p>&copy; <span class="full-year">{{ site.time | date: "%Y" }}</span> Justin Lewis</p>
+  </div>
 </footer>

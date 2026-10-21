@@ -1,73 +1,95 @@
-## Voyager
+# jmapping.com
 
-Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
+Personal site of Justin Lewis, served at <https://www.jmapping.com>. It is a
+Jekyll site that grew out of the Voyager theme, built by GitHub Pages' native
+Jekyll build from the `gh-pages` branch. There is no separate build step.
 
-### Feathures:
+## Pages
 
-All HTML files are compressed (see `_layouts/compress.html`).
+| File | URL | What it is |
+| --- | --- | --- |
+| `index.html` | `/` | About, work at TerraFrame, talks and writing, community, off the clock |
+| `community.html` | `/community/` | The longer story of West Slope Technologists and related work |
+| `projects.md` | `/projects/` | Redirects to `/#work` |
+| `redirects/*.html` | `/posts/<slug>/` | Redirects for the old blog posts, which were removed |
 
-**Post**
+The layout is `_layouts/default.html`: a photo panel on the left
+(`_includes/aside.html`), and a content column with a sticky nav
+(`_includes/header.html`), the page content, and a footer
+(`_includes/footer.html`). Below 60rem the photo becomes a banner at the top.
+Social icons are inline SVG in `_includes/social.html`.
 
-All post settings can be changed. Example:
+Styles are in `assets/_sass/`: `_variables.scss` (breakpoints, fonts, and the
+light and dark color tokens as CSS custom properties) and `_site.scss`
+(everything else). GitHub Pages compiles Sass with an old compiler, so wrap
+modern CSS functions such as `clamp()`, `min()`, and `max()` in
+`unquote("...")`.
 
-```
----
-layout: post
-bg: '2016/background.jpg'
-title: "Post Heading"
-crawlertitle: "page title"
-summary: "post description"
-date: 2016-06-29
-tags : ['front-end']
-slug: post-url
-author: "Author"
-categories: posts
----
-```
+## Setting a page's photo
 
-`bg` is a path to background of your article. By default backgrounds are placed in the `assets/images` directory.
+Each page picks its panel photo in front matter. Paths are relative to
+`assets/images/`.
 
-**Page**
-
-If page contains `active` tag, it will be show on site menu.
-
-```
----
-layout: page
-title: "About"
-permalink: /about/
-active: about
----
+```yaml
+bg: "web/me_5.jpg"          # photo for the left panel / mobile banner
+bg_position: "62% 20%"      # optional CSS object-position, to keep a face in frame
+bg_alt: "Describe the photo" # alt text for the photo
 ```
 
-**Archive**
+Use the web-sized copies in `assets/images/web/` (about 1600px on the long
+edge, JPEG quality 80). The originals of the portraits are kept in
+`assets/images/` in case you want to make new crops.
 
-Archive page is sorting posts by tags. No more than one tag in one post.
+## Link previews and descriptions
 
-Good:
+`_includes/head.html` writes the title, description, canonical URL, and Open
+Graph and Twitter tags for every page. Two optional front matter keys
+override the defaults:
 
-```
-tags : ['front-end']
-```
-
-Bad:
-
-```
-tags : ['front-end', 'jekyll']
-```
-
-Don't forget to change `_config.yml`.
-
-**Relative paths**
-
-If your blog is not in the root directory, you can include images with a relative path. For example:
-
-```
-![my_image]({{ site.images | relative_url }}/image.jpg)
+```yaml
+description: "One or two sentences for search results and link previews."
+og_image: "web/some-image.jpg"  # relative to assets/images/, ideally 1200x630
 ```
 
-## Production environment
+Without them, the page uses the site description from `_config.yml` and
+`assets/images/web/og-default.jpg`.
 
-Build for production:
+## Placeholders still to fill in
 
-`JEKYLL_ENV=production jekyll build`
+Missing facts are marked in the pages with `<span class="todo">…</span>`,
+which shows as a yellow highlight with a dashed outline. Search for
+`class="todo"` to find them.
+
+`index.html`, Talks & writing:
+
+- Cloud-Native Geospatial Forum talk (Snowbird, Utah): year and talk title
+- FOSS4G 2026 paper: title and link, and its status (for example, accepted or presented)
+- 2023 Spatial Knowledge Mesh paper: title and link, and venue
+- "Give Your Software Away" (TEDxGrandJunction): year
+- "Rethinking the Data Pipeline for Better Integration and Collaboration": year and venue
+- "Turning Data into Information with Geo-Ontologies": year and venue
+- "A Model for Open Data in Colorado": year and venue
+
+`index.html`, other sections:
+
+- Off the clock: one more line after "Outside of work I'm usually climbing…"
+- What I do at TerraFrame: an optional customer testimonial. A ready-to-use
+  pull quote is commented out at the end of the section.
+
+`community.html`:
+
+- The Rural Tech Retreat: when it ran, attendance, what the semi-off-grid
+  setup looked like, the program, and why it mattered
+- West Slope Startup Week: themes or standout sessions from the Technology Track
+- Where it stands: one honest sentence on what carries on
+
+## Previewing locally
+
+```sh
+bundle exec jekyll serve
+```
+
+Then open <http://localhost:4000>. If you don't have a Gemfile set up,
+`jekyll serve` with a locally installed Jekyll 3.x works too. Inline scripts
+must not use `//` comments: `_layouts/compress.html` collapses each page onto
+one line, so a `//` comment would swallow the rest of the script.

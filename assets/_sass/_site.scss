@@ -458,16 +458,20 @@ figcaption {
 .site-footer {
   max-width: $content-max-width;
   margin: 0 auto;
-  padding: 2rem 1.25rem 3rem;
-  border-top: 1px solid var(--color-rule);
+  padding: 0 1.25rem;
   font-size: 0.95rem;
   color: var(--color-muted);
 
   .social { margin: 0 0 0.75rem -0.5rem; }
 
   p { margin-bottom: 0.5rem; }
+
+  &__inner {
+    padding: 2rem 0 3rem;
+    border-top: 1px solid var(--color-rule);
+  }
 }
 
 @media (min-width: $split-break-point) {
-  .site-footer { padding: 2rem 2.5rem 3rem; }
+  .site-footer { padding: 0 2.5rem; }
 }
